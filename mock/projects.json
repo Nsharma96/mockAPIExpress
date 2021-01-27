@@ -1,0 +1,31 @@
+{
+    "projects":[
+      {
+        "title":"Prediction and categorization using graphs and knowldege graph",
+        "short_desc":"Using neo4j,graphs knowledge graph and ampligraph category prediction/recommendation and category prediction systems were built which enriched listings and helped in SEO and decision making",
+        "long_desc":"",
+        "img":"./assets/images/graph.jpeg"
+      },
+      {
+        "title":"Trading Platform",
+        "short_desc":"A trading system was built in Python using TensorFlow. Various mathematical tools and libraries were used to perform EDA and preprocessing. It has a back-testing module where many trading strategies are tested to find out which one gives the best returns. Finally, models were trained, tuned and integrated into ensemble based on the insights and features extracted from EDA and back-testing.",
+        "long_desc":"",
+        "img":"./assets/trading.jpeg"
+        
+      },
+      {
+        "title":"ERP system",
+        "short_desc":"Full stack product was built using AWS(Cognito,API gateway,Lambda,Node,SES,SNS etc.) and node for backend and Angular for Frontend. The product connects all incubator across various Amity branches. It has features like user authentication and role manager, data entry /analytics ,resource allocators etc.",
+        "long_desc":"",
+        "img":"./assets/erp.jpeg"
+        
+      },
+      {
+        "title":"PowerBox",
+        "short_desc":"A flutter application aimed at providing daily new, humor, task management etc. It has backend on AWS and for APIs serverless applications were written as lambdas. Cognito was used for user account management and API authentication .RDS, API gateway, and other services were also for integrating the backend for the application. App is currently available on IOS and Android.",
+        "long_desc":"",
+        "img":"./assets/powerbox.png"
+        
+      }
+   ] 
+  }
